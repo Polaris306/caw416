@@ -66,5 +66,20 @@ PUBG|66$|TOP2
 [Bilibili弹幕网](https://www.bilibili.com "点击进入B站")
 [百度搜索](https://www.baidu.com "点击进入")
 
+## 插入代码片段
+
+```c
+#include<stdio.h>
+{
+	printf("hello world");
+	return 0;
+}
+
+```
+
+```cpp
+#include<iostream>
+using namespace std;
+```
 
 
