@@ -82,4 +82,6 @@ PUBG|66$|TOP2
 using namespace std;
 ```
 
+## 插入图片
+![测试](C://Users//Lenovo//Desktop//fighting//壁纸//1 (108).jpg)
 
